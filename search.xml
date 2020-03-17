@@ -7,9 +7,6 @@
       <categories>
         <category>Golang</category>
       </categories>
-      <tags>
-        <tag>Golang</tag>
-      </tags>
   </entry>
   <entry>
     <title>C++虚函数机制详解</title>
@@ -19,7 +16,7 @@
         <category>C++</category>
       </categories>
       <tags>
-        <tag>虚函数</tag>
+        <tag> 虚函数</tag>
       </tags>
   </entry>
   <entry>
@@ -31,6 +28,7 @@
       </categories>
       <tags>
         <tag>JVM</tag>
+        <tag>类加载</tag>
       </tags>
   </entry>
   <entry>
